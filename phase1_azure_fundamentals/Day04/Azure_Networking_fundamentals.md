@@ -289,7 +289,6 @@ print("\n✅ ALL DONE! Your complete Azure network is ready.")
 python azure_network_setup.py
 ```
 
-You can now deploy VMs into the subnets and they will be fully networked, secured, and have outbound internet via NAT.
 
 **Next steps you can add** (just extend the script):
 - Create Azure Firewall → attach to VNet.
